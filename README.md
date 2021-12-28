@@ -23,7 +23,8 @@ need install jq, curl, sendemail, openssl
 
 if wanna search following users' [ `public repos` ] and [ `gists` ], must put [ `-f` ] at the end !
 
-for example,CC to example@domain.com,and search following users
+for example,CC to example@domain.com,and search following users:
+
 `./githubDetect.sh -a Example@123# -c example@domain.com.cn -f`
 
 
